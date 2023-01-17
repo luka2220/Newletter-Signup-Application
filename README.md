@@ -5,4 +5,4 @@ A basic newsletter signup application with mailchimp api and deployed to heroku 
 HTML, CSS (files not included), Bootstap, Node.js, Express.js, Mailchimp API, Heroku Cloud
 
 ## Live Site
-https://protected-ravine-73305.herokuapp.com
+https://guarded-savannah-73241.herokuapp.com/
